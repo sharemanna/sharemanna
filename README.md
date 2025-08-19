@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Sharemanna.ai is about making it easier for more people — especially small teams, students, and builders outside traditional tech hubs — to become AI creators themselves. By focusing on tangible, often overlooked problems, we aim to apply AI to civic improvement, operational efficiency, and economic opportunity. The mission is to unlock a long tail of meaningful use cases — each small on its own, but collectively powerful, forming a compounding model of innovation that scales from the bottom up.
+
 <!--
 **sharemanna/sharemanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
